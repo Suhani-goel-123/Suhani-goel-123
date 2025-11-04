@@ -2,7 +2,7 @@
 # <div align="center">Hi there visitor! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width=30></div>
 <a><img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="300" ></a>
  ### ➙ A quick snapshot of me 👩🏻‍💻
-- 🔭 Pursuing B.Tech in information Technology, currently in my penultimate year.
+- 🔭 Pursuing B.Tech in information Technology from IGDTUW, currently in my penultimate year.
   
 - 🌱 Tech enthusiast and avid learner.
   
